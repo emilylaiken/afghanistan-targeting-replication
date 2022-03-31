@@ -1,0 +1,2 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_dropmissing__threshold,param_dropmissing__variance_threshold,param_model__alpha,param_winsorizer__limits,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
+0.9634711742401123,0.0196929947027099,0.1851800282796224,0.0030019850274831473,0.5,0.1,1,"(0.0, 1.0)","{'dropmissing__threshold': 0.5, 'dropmissing__variance_threshold': 0.1, 'model__alpha': 1, 'winsorizer__limits': (0.0, 1.0)}",0.5,0.5,0.5,0.5,0.0,1

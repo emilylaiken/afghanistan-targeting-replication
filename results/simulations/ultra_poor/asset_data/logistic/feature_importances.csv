@@ -1,0 +1,20 @@
+,feature,importance
+0,asset_radio_cd_player,"[ 3.28032427e+03 -1.18091683e+04 -6.56064963e+03 -8.43511973e+03
+ -1.40585339e+04 -8.43512065e+03 -7.49788559e+03 -5.62341405e+03
+  1.68702386e+04 -1.91196052e+04  4.03338015e-05 -1.87447113e+04
+ -9.37237379e+02  9.37234764e+02  2.24936430e+03 -2.81170787e+03]"
+1,asset_tv,
+2,asset_tv_dish,
+3,asset_vcr_dvd_player,
+4,asset_refridgerator,
+5,asset_generator,
+6,asset_matress,
+7,asset_mobile_phone,
+8,asset_non_mobile_phone,
+9,asset_iron,
+10,asset_bed_frame,
+11,asset_jewelry,
+12,asset_mosquito_net,
+13,asset_mosquito_repellent_candle,
+14,asset_fan,
+15,asset_camera,

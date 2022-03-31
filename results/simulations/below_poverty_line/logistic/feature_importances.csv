@@ -1,0 +1,529 @@
+,feature,importance
+0,below_poverty_line,"[ 3.23346262e+05  1.19971500e+04 -3.57289876e+03  7.32689057e+03
+ -2.36131721e+03 -1.69736455e+04 -7.70447511e+03 -3.97014902e+03
+ -1.71241948e+04 -1.61319740e+04  1.25192958e+04  1.37829577e+04
+ -1.43656935e+04  3.12595928e+03  1.57191117e+03  1.28396524e+04
+  1.41321588e+04 -1.67033863e+03 -1.06205748e+04  4.53930930e+03
+  1.03419163e+04 -1.39268008e+04 -1.67821472e+03  9.87374806e+02
+  3.68271327e+03 -8.53676005e+02 -1.19995615e+03 -5.48621902e+03
+  1.05029994e+04 -1.72211689e+03 -7.00883455e+03  8.58800784e+03
+ -7.03066578e+02 -1.26056566e+04 -1.24231777e+04  2.28903512e+03
+ -8.24068180e+03  5.51270240e+03  1.92880909e+03 -8.78167817e+03
+ -1.41860336e+04 -9.32095393e+03 -3.17028039e+03 -1.09349748e+04
+  1.83013688e+04 -1.47865102e+04 -3.47716002e+03 -9.83936064e+03
+  7.43367856e+03  8.54916734e+03 -3.60860747e+03 -9.90152855e+03
+  1.07601903e+04 -1.60814041e+02  2.19958251e+03 -3.16155058e+03
+ -1.03170530e+04 -5.10038987e+03 -1.67054152e+04 -1.89527226e+03
+  1.55745055e+04 -5.08326679e+03  3.37027320e+03  1.24150460e+03
+ -2.54626894e+03  5.62329508e+03  7.75621386e+03  5.48920035e+03
+  1.09575164e+04  1.20147957e+04 -8.37761198e+03 -8.17882417e+03
+  6.42818582e+03 -8.29284127e+03 -3.46333242e+03  3.23122507e+03
+ -8.12906559e+03 -5.64324701e+03  1.81573186e+04  1.97935822e+04
+ -9.87850470e+03  5.26208514e+03  6.11102236e+03 -8.08196224e+03
+  1.30759653e+04 -1.92206023e+03 -8.16216835e+03 -3.01497560e+03
+ -9.18810534e+03 -1.76507292e+03 -2.64080575e+03  8.43480026e+03
+ -7.44059095e+03  4.03848848e+02 -1.01885063e+02  7.31976913e+03
+ -8.08474317e+03 -1.32665652e+04 -3.92297052e+03  3.72037742e+03
+ -9.25054547e+02 -1.08491251e+03 -5.34007636e+03 -5.96110676e+03
+ -6.64913287e+03  7.77120544e+03 -2.28751862e+04  7.57145862e+03
+ -5.55120775e+03 -5.14537318e+03 -5.67402810e+03  1.21102602e+04
+ -1.59664745e+04  9.29966799e+03 -4.92430080e+03  8.73982831e+02
+ -8.02754668e+03  3.01666160e+03  8.42502301e+03  5.47011994e+03
+ -3.32890005e+03 -4.14970219e+03 -7.45663126e+03  1.68444361e+03
+  1.19022145e+04 -3.35347473e+03  4.52885186e+03 -5.18183299e+03
+  2.21126034e+03 -1.40751161e+04  3.00237881e+04  8.98103226e+03
+  1.02341835e+04 -7.65258734e+03 -1.13317214e+04  8.98871990e+03
+ -2.55086878e+04 -2.63745373e+02  6.66402599e+03  8.90784380e+03
+  1.68245669e+04  6.63314943e+03  1.54655732e+03 -2.92346090e+03
+  6.10612707e+03  1.32869452e+04 -2.15956428e+03  5.17316504e+03
+ -1.02332368e+03  2.86616202e+03 -3.93458332e+03 -1.06788693e+04
+ -3.34850533e+03 -5.33909458e+03  9.71290542e+03 -1.36420798e+04
+ -1.10555727e+04 -1.23708223e+04 -1.41667406e+04 -1.44300004e+04
+  3.80249299e+03 -3.45030258e+03 -5.28986097e+03 -2.31300747e+02
+  2.43171924e+03  2.59032200e+03  6.80445992e+03  4.75509350e+02
+ -1.12139786e+04 -4.59150930e+03  2.93785448e+02 -1.12760536e+04
+ -1.18240698e+04  4.37000469e+03 -1.67885180e+03 -2.10460385e+04
+ -5.00588464e+03  5.63700797e+03 -6.50150042e+03  6.77291146e+03
+  1.12106075e+04 -3.40009535e+03  3.37319798e+03 -1.31593626e+04
+  4.75778773e+03 -6.18192712e+03 -1.78580066e+03 -2.38271585e+04
+  7.58008341e+03  8.82615353e+03 -9.88009029e+03  1.19700168e+04
+ -1.26196423e+04  1.33828403e+04 -1.58191592e+02  3.46081915e+03
+ -6.83946250e+03 -1.26000215e+04 -8.61195638e+03 -3.29643087e+03
+  1.59369350e+03  2.14333790e+04 -1.33655730e+03  2.51612921e+03
+ -5.69231602e+03 -7.89717761e+03 -1.47865113e+04  1.83157740e+03
+  7.26966131e+03  9.67212952e+02 -1.88836958e+04 -4.54195444e+03
+ -4.05144141e+03 -1.54560789e+04 -5.61011685e+02 -2.86519359e+03
+  1.84899828e+04  2.60323162e+03  1.01471103e+02 -8.57971402e+03
+  6.82409667e+03 -2.01739946e+02 -1.03632428e+04 -6.70684381e+03
+ -5.50067349e+03 -1.13425253e+04 -1.08589282e+04  1.17551337e+04
+ -1.27729063e+04 -1.19015692e+04  8.40859408e+03  1.40933313e+03
+  1.12641641e+04  3.81640177e+03 -6.83610125e+03  2.88056539e+03
+  1.05561839e+03 -6.28387283e+03  7.97660522e+03  4.37961914e+03
+ -7.63809377e+03  5.83710001e+03  3.13786321e+03 -2.15344375e+03
+ -1.15332338e+04 -1.73395837e+04  4.07747251e+03 -1.90879122e+02
+  6.90043101e+03  1.17980064e+04 -1.60529328e+04 -7.59914754e+03
+  4.68872289e+03  2.02379421e+03  6.82234004e+03 -1.35206484e+03
+ -3.62535549e+03  3.32672735e+03 -2.00482026e+03  6.51676324e+03
+ -6.43184696e+03  4.80484400e+02 -9.37120614e+03 -1.48714128e+04
+  7.08112765e+03 -9.80361720e+02  5.66703213e+03 -3.13078415e+03
+  6.94838054e+03 -1.43788056e+04 -1.15421553e+04 -7.16877413e+03
+ -4.86711491e+03 -4.39778201e+03 -4.72539280e+03 -1.15658852e+04
+ -1.56494712e+03 -2.11384603e+03 -1.42911614e+04 -8.36417540e+03
+ -6.42167512e+03 -1.30822375e+03 -1.81247988e+04  3.21749777e+02
+ -3.09726410e+03 -3.59298323e+03 -6.49720664e+03 -4.81332042e+03
+  7.55476535e+03  1.28848352e+04 -2.00731632e+03  1.15105946e+04
+ -3.12158799e+01 -4.68443151e+03 -4.08319375e+03  2.43997121e+04
+ -1.22452777e+04  2.77300038e+03 -3.05191881e+03 -1.05138335e+04
+  5.08687772e+03  2.53538829e+03  6.97217559e+03 -1.66219703e+04
+  8.34850174e+03 -1.04104807e+04  4.10325047e+02  6.90527971e+03
+ -3.10809314e+02  6.46113969e+03 -9.35454128e+03 -1.52304154e+04
+ -1.88326379e+04 -2.04540823e+04 -1.32400960e+04  1.06285664e+04
+  1.48081992e+04 -1.59660899e+03 -3.58520521e+02 -1.57495153e+04
+ -1.55082631e+04  2.12513498e+03  8.50281131e+01  6.85766001e+02
+ -2.41322641e+04 -9.37663462e+03  2.12744854e+03  5.00463223e+03
+  1.31414410e+04  1.82419873e+04 -9.43298985e+03 -5.54474016e+03
+ -8.35957942e+03  9.62601077e+03 -8.45327663e+03 -1.41994073e+03
+ -1.57588161e+04 -6.77793390e+03  2.50563080e+03 -6.24858743e+03
+ -1.12349039e+04 -9.02690774e+03  1.52701884e+04  1.65776267e+04
+ -2.91685296e+03  2.71721532e+03  8.31429538e+03  2.12611652e+03
+ -2.35719250e+03 -3.26157057e+03 -1.21439436e+04 -9.26741411e+03
+ -6.33022426e+03 -6.65497586e+03  1.27212268e+04 -7.74895451e+03
+ -2.64553052e+02  2.91525722e+03  3.38066554e+03  3.02573903e+03
+  3.00287523e+03 -1.16685155e+03 -2.06229983e+03  2.14196255e+03
+ -1.31029234e+04 -4.01329650e+03 -9.69707649e+03  9.68577921e+03
+ -3.80357049e+03 -5.25467485e+03  4.21145247e+03 -4.03119078e+03
+ -5.95925335e+03 -2.00527225e+03 -1.27980001e+03 -3.11197481e+03
+ -1.89851469e+02  1.16629233e+03 -1.23108256e+04 -1.26138162e+04
+ -3.37036773e+03 -4.49262130e+03 -2.37023453e+03 -2.69701051e+04
+ -5.71110385e+03  1.30699306e+04  5.17195229e+03  9.62546617e+03
+ -8.71899726e+03  5.97582669e+03 -9.91111399e+03  9.31732342e+03
+ -2.83932323e+03 -2.69870937e+03  2.94514899e+03  2.74247873e+02
+  2.38517048e+03 -2.57696427e+03  1.19988637e+04  3.19631745e+03
+ -5.96190853e+03 -2.57594027e+03  1.25499657e+04  1.50412138e+04
+  4.58832413e+03  1.27606766e+03 -4.85398979e+03  2.14071755e+03
+ -1.06404617e+04  1.91805669e+04  9.46910327e+03  1.96076771e+04
+  1.53591392e+04 -7.96192845e+03  1.01219287e+04 -3.23523302e+03
+  1.05063386e+04 -9.28484866e+02 -1.53368226e+04  2.33588853e+04
+  8.38083292e+03  6.11461008e+03  3.35750868e+03]"
+1,reporting__number_of_records,
+2,active_days__allweek__day__callandtext,
+3,active_days__allweek__night__callandtext,
+4,active_days__weekend__allday__callandtext,
+5,active_days__weekend__day__callandtext,
+6,number_of_contacts__allweek__allday__text,
+7,number_of_contacts__allweek__day__text,
+8,number_of_contacts__allweek__night__text,
+9,number_of_contacts__weekday__allday__text,
+10,number_of_contacts__weekend__allday__text,
+11,number_of_contacts__weekend__night__call,
+12,number_of_contacts__weekend__night__text,
+13,call_duration__allweek__allday__call__mean,
+14,call_duration__allweek__allday__call__median,
+15,call_duration__allweek__allday__call__skewness,
+16,call_duration__allweek__allday__call__min,
+17,call_duration__allweek__allday__call__max,
+18,call_duration__allweek__day__call__mean,
+19,call_duration__allweek__day__call__std,
+20,call_duration__allweek__day__call__kurtosis,
+21,call_duration__allweek__day__call__max,
+22,call_duration__allweek__night__call__mean,
+23,call_duration__allweek__night__call__skewness,
+24,call_duration__weekday__allday__call__mean,
+25,call_duration__weekday__day__call__mean,
+26,call_duration__weekday__day__call__std,
+27,call_duration__weekday__day__call__min,
+28,call_duration__weekday__night__call__skewness,
+29,call_duration__weekday__night__call__kurtosis,
+30,call_duration__weekday__night__call__max,
+31,call_duration__weekend__allday__call__std,
+32,call_duration__weekend__allday__call__median,
+33,call_duration__weekend__allday__call__max,
+34,call_duration__weekend__day__call__mean,
+35,call_duration__weekend__day__call__kurtosis,
+36,call_duration__weekend__day__call__min,
+37,call_duration__weekend__night__call__median,
+38,call_duration__weekend__night__call__skewness,
+39,call_duration__weekend__night__call__kurtosis,
+40,percent_nocturnal__allweek__allday__call,
+41,percent_nocturnal__allweek__allday__text,
+42,percent_nocturnal__allweek__day__call,
+43,percent_nocturnal__allweek__day__text,
+44,percent_nocturnal__allweek__night__call,
+45,percent_nocturnal__weekday__day__call,
+46,percent_nocturnal__weekday__day__text,
+47,percent_nocturnal__weekday__night__text,
+48,percent_nocturnal__weekend__day__text,
+49,percent_nocturnal__weekend__night__text,
+50,percent_initiated_conversations__weekday__allday__callandtext,
+51,percent_initiated_conversations__weekend__allday__callandtext,
+52,percent_initiated_conversations__weekend__day__callandtext,
+53,percent_initiated_conversations__weekend__night__callandtext,
+54,percent_initiated_interactions__weekday__day__call,
+55,percent_initiated_interactions__weekday__night__call,
+56,response_delay_text__allweek__allday__callandtext__mean,
+57,response_delay_text__allweek__allday__callandtext__std,
+58,response_delay_text__allweek__allday__callandtext__median,
+59,response_delay_text__allweek__allday__callandtext__skewness,
+60,response_delay_text__allweek__allday__callandtext__min,
+61,response_delay_text__allweek__allday__callandtext__max,
+62,response_delay_text__allweek__day__callandtext__median,
+63,response_delay_text__allweek__day__callandtext__kurtosis,
+64,response_delay_text__allweek__night__callandtext__mean,
+65,response_delay_text__allweek__night__callandtext__skewness,
+66,response_delay_text__allweek__night__callandtext__kurtosis,
+67,response_delay_text__allweek__night__callandtext__min,
+68,response_delay_text__allweek__night__callandtext__max,
+69,response_delay_text__weekday__allday__callandtext__mean,
+70,response_delay_text__weekday__allday__callandtext__skewness,
+71,response_delay_text__weekday__allday__callandtext__kurtosis,
+72,response_delay_text__weekday__allday__callandtext__min,
+73,response_delay_text__weekday__allday__callandtext__max,
+74,response_delay_text__weekday__day__callandtext__std,
+75,response_delay_text__weekday__day__callandtext__median,
+76,response_delay_text__weekday__day__callandtext__kurtosis,
+77,response_delay_text__weekday__day__callandtext__max,
+78,response_delay_text__weekday__night__callandtext__mean,
+79,response_delay_text__weekday__night__callandtext__median,
+80,response_delay_text__weekday__night__callandtext__kurtosis,
+81,response_delay_text__weekday__night__callandtext__max,
+82,response_delay_text__weekend__allday__callandtext__mean,
+83,response_delay_text__weekend__allday__callandtext__skewness,
+84,response_delay_text__weekend__allday__callandtext__kurtosis,
+85,response_delay_text__weekend__allday__callandtext__min,
+86,response_delay_text__weekend__allday__callandtext__max,
+87,response_delay_text__weekend__day__callandtext__mean,
+88,response_delay_text__weekend__day__callandtext__kurtosis,
+89,response_delay_text__weekend__day__callandtext__min,
+90,response_delay_text__weekend__day__callandtext__max,
+91,response_delay_text__weekend__night__callandtext__mean,
+92,response_delay_text__weekend__night__callandtext__std,
+93,response_delay_text__weekend__night__callandtext__median,
+94,response_delay_text__weekend__night__callandtext__kurtosis,
+95,response_delay_text__weekend__night__callandtext__min,
+96,response_delay_text__weekend__night__callandtext__max,
+97,response_rate_text__allweek__day__callandtext,
+98,response_rate_text__allweek__night__callandtext,
+99,response_rate_text__weekday__allday__callandtext,
+100,response_rate_text__weekday__day__callandtext,
+101,response_rate_text__weekend__allday__callandtext,
+102,response_rate_text__weekend__night__callandtext,
+103,entropy_of_contacts__allweek__day__text,
+104,entropy_of_contacts__allweek__night__call,
+105,entropy_of_contacts__weekday__allday__call,
+106,entropy_of_contacts__weekday__allday__text,
+107,entropy_of_contacts__weekday__day__text,
+108,entropy_of_contacts__weekday__night__call,
+109,entropy_of_contacts__weekday__night__text,
+110,entropy_of_contacts__weekend__allday__call,
+111,entropy_of_contacts__weekend__allday__text,
+112,balance_of_contacts__allweek__allday__call__skewness,
+113,balance_of_contacts__allweek__allday__call__max,
+114,balance_of_contacts__allweek__allday__text__mean,
+115,balance_of_contacts__allweek__allday__text__std,
+116,balance_of_contacts__allweek__allday__text__min,
+117,balance_of_contacts__allweek__day__call__std,
+118,balance_of_contacts__allweek__day__call__skewness,
+119,balance_of_contacts__allweek__day__call__kurtosis,
+120,balance_of_contacts__allweek__day__call__min,
+121,balance_of_contacts__allweek__day__text__min,
+122,balance_of_contacts__allweek__day__text__max,
+123,balance_of_contacts__allweek__night__call__skewness,
+124,balance_of_contacts__allweek__night__call__min,
+125,balance_of_contacts__allweek__night__call__max,
+126,balance_of_contacts__allweek__night__text__mean,
+127,balance_of_contacts__allweek__night__text__std,
+128,balance_of_contacts__allweek__night__text__median,
+129,balance_of_contacts__allweek__night__text__skewness,
+130,balance_of_contacts__allweek__night__text__min,
+131,balance_of_contacts__weekday__allday__call__mean,
+132,balance_of_contacts__weekday__allday__call__std,
+133,balance_of_contacts__weekday__allday__call__median,
+134,balance_of_contacts__weekday__allday__text__mean,
+135,balance_of_contacts__weekday__allday__text__std,
+136,balance_of_contacts__weekday__allday__text__median,
+137,balance_of_contacts__weekday__day__call__std,
+138,balance_of_contacts__weekday__day__call__median,
+139,balance_of_contacts__weekday__day__call__min,
+140,balance_of_contacts__weekday__day__text__mean,
+141,balance_of_contacts__weekday__day__text__median,
+142,balance_of_contacts__weekday__day__text__kurtosis,
+143,balance_of_contacts__weekday__day__text__min,
+144,balance_of_contacts__weekday__night__call__mean,
+145,balance_of_contacts__weekday__night__call__std,
+146,balance_of_contacts__weekday__night__call__skewness,
+147,balance_of_contacts__weekday__night__call__max,
+148,balance_of_contacts__weekday__night__text__mean,
+149,balance_of_contacts__weekday__night__text__std,
+150,balance_of_contacts__weekday__night__text__median,
+151,balance_of_contacts__weekday__night__text__kurtosis,
+152,balance_of_contacts__weekday__night__text__min,
+153,balance_of_contacts__weekend__allday__call__std,
+154,balance_of_contacts__weekend__allday__call__skewness,
+155,balance_of_contacts__weekend__allday__call__kurtosis,
+156,balance_of_contacts__weekend__allday__text__std,
+157,balance_of_contacts__weekend__allday__text__median,
+158,balance_of_contacts__weekend__allday__text__kurtosis,
+159,balance_of_contacts__weekend__day__call__std,
+160,balance_of_contacts__weekend__day__call__kurtosis,
+161,balance_of_contacts__weekend__day__call__min,
+162,balance_of_contacts__weekend__day__text__mean,
+163,balance_of_contacts__weekend__day__text__std,
+164,balance_of_contacts__weekend__day__text__median,
+165,balance_of_contacts__weekend__day__text__min,
+166,balance_of_contacts__weekend__day__text__max,
+167,balance_of_contacts__weekend__night__call__mean,
+168,balance_of_contacts__weekend__night__call__std,
+169,balance_of_contacts__weekend__night__call__skewness,
+170,balance_of_contacts__weekend__night__call__kurtosis,
+171,balance_of_contacts__weekend__night__text__median,
+172,balance_of_contacts__weekend__night__text__skewness,
+173,balance_of_contacts__weekend__night__text__kurtosis,
+174,balance_of_contacts__weekend__night__text__min,
+175,interactions_per_contact__allweek__allday__call__skewness,
+176,interactions_per_contact__allweek__allday__text__skewness,
+177,interactions_per_contact__allweek__allday__text__kurtosis,
+178,interactions_per_contact__allweek__allday__text__min,
+179,interactions_per_contact__allweek__day__call__std,
+180,interactions_per_contact__allweek__day__call__median,
+181,interactions_per_contact__allweek__day__text__mean,
+182,interactions_per_contact__allweek__day__text__std,
+183,interactions_per_contact__allweek__day__text__median,
+184,interactions_per_contact__allweek__day__text__max,
+185,interactions_per_contact__allweek__night__call__std,
+186,interactions_per_contact__allweek__night__call__skewness,
+187,interactions_per_contact__allweek__night__call__kurtosis,
+188,interactions_per_contact__allweek__night__text__mean,
+189,interactions_per_contact__allweek__night__text__median,
+190,interactions_per_contact__allweek__night__text__min,
+191,interactions_per_contact__allweek__night__text__max,
+192,interactions_per_contact__weekday__allday__call__skewness,
+193,interactions_per_contact__weekday__allday__call__kurtosis,
+194,interactions_per_contact__weekday__allday__call__max,
+195,interactions_per_contact__weekday__allday__text__std,
+196,interactions_per_contact__weekday__allday__text__kurtosis,
+197,interactions_per_contact__weekday__allday__text__max,
+198,interactions_per_contact__weekday__day__call__mean,
+199,interactions_per_contact__weekday__day__call__std,
+200,interactions_per_contact__weekday__day__call__kurtosis,
+201,interactions_per_contact__weekday__day__text__median,
+202,interactions_per_contact__weekday__day__text__kurtosis,
+203,interactions_per_contact__weekday__day__text__min,
+204,interactions_per_contact__weekday__night__call__mean,
+205,interactions_per_contact__weekday__night__call__std,
+206,interactions_per_contact__weekday__night__call__median,
+207,interactions_per_contact__weekday__night__call__skewness,
+208,interactions_per_contact__weekday__night__text__mean,
+209,interactions_per_contact__weekday__night__text__std,
+210,interactions_per_contact__weekday__night__text__skewness,
+211,interactions_per_contact__weekend__allday__call__mean,
+212,interactions_per_contact__weekend__allday__call__std,
+213,interactions_per_contact__weekend__allday__call__skewness,
+214,interactions_per_contact__weekend__allday__call__kurtosis,
+215,interactions_per_contact__weekend__allday__call__max,
+216,interactions_per_contact__weekend__allday__text__median,
+217,interactions_per_contact__weekend__allday__text__skewness,
+218,interactions_per_contact__weekend__day__call__mean,
+219,interactions_per_contact__weekend__day__call__std,
+220,interactions_per_contact__weekend__day__call__kurtosis,
+221,interactions_per_contact__weekend__day__call__min,
+222,interactions_per_contact__weekend__day__text__std,
+223,interactions_per_contact__weekend__day__text__skewness,
+224,interactions_per_contact__weekend__day__text__min,
+225,interactions_per_contact__weekend__day__text__max,
+226,interactions_per_contact__weekend__night__call__mean,
+227,interactions_per_contact__weekend__night__call__std,
+228,interactions_per_contact__weekend__night__call__min,
+229,interactions_per_contact__weekend__night__call__max,
+230,interactions_per_contact__weekend__night__text__median,
+231,interevent_time__allweek__allday__call__median,
+232,interevent_time__allweek__allday__call__kurtosis,
+233,interevent_time__allweek__allday__call__min,
+234,interevent_time__allweek__allday__text__median,
+235,interevent_time__allweek__allday__text__skewness,
+236,interevent_time__allweek__allday__text__kurtosis,
+237,interevent_time__allweek__day__call__skewness,
+238,interevent_time__allweek__day__call__kurtosis,
+239,interevent_time__allweek__day__call__max,
+240,interevent_time__allweek__day__text__mean,
+241,interevent_time__allweek__day__text__skewness,
+242,interevent_time__allweek__day__text__kurtosis,
+243,interevent_time__allweek__day__text__min,
+244,interevent_time__allweek__night__call__mean,
+245,interevent_time__allweek__night__call__kurtosis,
+246,interevent_time__allweek__night__text__mean,
+247,interevent_time__allweek__night__text__median,
+248,interevent_time__allweek__night__text__kurtosis,
+249,interevent_time__allweek__night__text__max,
+250,interevent_time__weekday__allday__call__skewness,
+251,interevent_time__weekday__allday__call__max,
+252,interevent_time__weekday__allday__text__mean,
+253,interevent_time__weekday__allday__text__std,
+254,interevent_time__weekday__allday__text__skewness,
+255,interevent_time__weekday__allday__text__kurtosis,
+256,interevent_time__weekday__day__call__mean,
+257,interevent_time__weekday__day__call__kurtosis,
+258,interevent_time__weekday__day__call__min,
+259,interevent_time__weekday__day__text__mean,
+260,interevent_time__weekday__day__text__kurtosis,
+261,interevent_time__weekday__day__text__min,
+262,interevent_time__weekday__night__call__median,
+263,interevent_time__weekday__night__call__kurtosis,
+264,interevent_time__weekday__night__call__min,
+265,interevent_time__weekday__night__call__max,
+266,interevent_time__weekday__night__text__median,
+267,interevent_time__weekday__night__text__kurtosis,
+268,interevent_time__weekday__night__text__min,
+269,interevent_time__weekday__night__text__max,
+270,interevent_time__weekend__allday__call__median,
+271,interevent_time__weekend__allday__call__skewness,
+272,interevent_time__weekend__allday__text__skewness,
+273,interevent_time__weekend__allday__text__kurtosis,
+274,interevent_time__weekend__day__call__mean,
+275,interevent_time__weekend__day__text__mean,
+276,interevent_time__weekend__day__text__std,
+277,interevent_time__weekend__day__text__median,
+278,interevent_time__weekend__day__text__skewness,
+279,interevent_time__weekend__day__text__kurtosis,
+280,interevent_time__weekend__day__text__min,
+281,interevent_time__weekend__night__call__std,
+282,interevent_time__weekend__night__call__skewness,
+283,interevent_time__weekend__night__call__max,
+284,interevent_time__weekend__night__text__median,
+285,interevent_time__weekend__night__text__max,
+286,percent_pareto_interactions__allweek__allday__text,
+287,percent_pareto_interactions__allweek__day__call,
+288,percent_pareto_interactions__allweek__night__call,
+289,percent_pareto_interactions__allweek__night__text,
+290,percent_pareto_interactions__weekday__night__call,
+291,percent_pareto_interactions__weekday__night__text,
+292,percent_pareto_interactions__weekend__day__call,
+293,percent_pareto_interactions__weekend__day__text,
+294,percent_pareto_interactions__weekend__night__call,
+295,percent_pareto_interactions__weekend__night__text,
+296,percent_pareto_durations__weekday__allday__call,
+297,percent_pareto_durations__weekday__day__call,
+298,percent_pareto_durations__weekday__night__call,
+299,percent_pareto_durations__weekend__night__call,
+300,number_of_interactions__allweek__day__call,
+301,number_of_interactions__allweek__day__text,
+302,number_of_interactions__weekday__allday__call,
+303,number_of_interactions__weekday__day__call,
+304,number_of_interactions__weekday__day__text,
+305,number_of_interactions__weekday__night__text,
+306,number_of_interactions__weekend__allday__call,
+307,number_of_interactions__weekend__day__call,
+308,number_of_interaction_in__allweek__allday__call,
+309,number_of_interaction_in__allweek__day__text,
+310,number_of_interaction_in__allweek__night__text,
+311,number_of_interaction_in__weekday__allday__text,
+312,number_of_interaction_in__weekday__day__call,
+313,number_of_interaction_in__weekday__day__text,
+314,number_of_interaction_in__weekday__night__text,
+315,number_of_interaction_in__weekend__allday__call,
+316,number_of_interaction_in__weekend__day__call,
+317,number_of_interaction_in__weekend__day__text,
+318,number_of_interaction_out__allweek__allday__call,
+319,number_of_interaction_out__allweek__allday__text,
+320,number_of_interaction_out__allweek__day__call,
+321,number_of_interaction_out__allweek__day__text,
+322,number_of_interaction_out__allweek__night__text,
+323,number_of_interaction_out__weekday__allday__call,
+324,number_of_interaction_out__weekday__day__call,
+325,number_of_interaction_out__weekday__day__text,
+326,number_of_interaction_out__weekday__night__call,
+327,number_of_interaction_out__weekend__allday__call,
+328,number_of_interaction_out__weekend__day__call,
+329,number_of_interaction_out__weekend__night__text,
+330,number_of_antennas__allweek__allday,
+331,number_of_antennas__allweek__day,
+332,number_of_antennas__allweek__night,
+333,number_of_antennas__weekday__allday,
+334,number_of_antennas__weekday__day,
+335,number_of_antennas__weekday__night,
+336,number_of_antennas__weekend__night,
+337,entropy_of_antennas__allweek__allday,
+338,entropy_of_antennas__weekday__day,
+339,entropy_of_antennas__weekday__night,
+340,entropy_of_antennas__weekend__night,
+341,percent_at_home__weekday__allday,
+342,percent_at_home__weekday__day,
+343,percent_at_home__weekend__night,
+344,radius_of_gyration__allweek__allday,
+345,radius_of_gyration__allweek__night,
+346,radius_of_gyration__weekday__day,
+347,radius_of_gyration__weekday__night,
+348,radius_of_gyration__weekend__allday,
+349,radius_of_gyration__weekend__day,
+350,radius_of_gyration__weekend__night,
+351,frequent_antennas__weekday__day,
+352,frequent_antennas__weekday__night,
+353,frequent_antennas__weekend__day,
+354,frequent_antennas__weekend__night,
+355,churn_rate__std,
+356,amount_recharges__allweek__allday__median,
+357,amount_recharges__allweek__allday__skewness,
+358,amount_recharges__allweek__day__mean,
+359,amount_recharges__allweek__day__std,
+360,amount_recharges__allweek__day__skewness,
+361,amount_recharges__allweek__day__kurtosis,
+362,amount_recharges__allweek__day__max,
+363,amount_recharges__allweek__night__std,
+364,amount_recharges__allweek__night__median,
+365,amount_recharges__allweek__night__min,
+366,amount_recharges__weekday__allday__mean,
+367,amount_recharges__weekday__allday__std,
+368,amount_recharges__weekday__day__std,
+369,amount_recharges__weekday__day__kurtosis,
+370,amount_recharges__weekday__night__mean,
+371,amount_recharges__weekday__night__kurtosis,
+372,amount_recharges__weekday__night__min,
+373,amount_recharges__weekend__allday__std,
+374,amount_recharges__weekend__allday__skewness,
+375,amount_recharges__weekend__allday__min,
+376,amount_recharges__weekend__day__skewness,
+377,amount_recharges__weekend__day__min,
+378,amount_recharges__weekend__night__mean,
+379,amount_recharges__weekend__night__kurtosis,
+380,amount_recharges__weekend__night__max,
+381,interevent_time_recharges__allweek__allday__std,
+382,interevent_time_recharges__allweek__allday__skewness,
+383,interevent_time_recharges__allweek__day__std,
+384,interevent_time_recharges__allweek__day__skewness,
+385,interevent_time_recharges__allweek__day__kurtosis,
+386,interevent_time_recharges__allweek__day__min,
+387,interevent_time_recharges__allweek__night__mean,
+388,interevent_time_recharges__allweek__night__std,
+389,interevent_time_recharges__allweek__night__median,
+390,interevent_time_recharges__allweek__night__min,
+391,interevent_time_recharges__allweek__night__max,
+392,interevent_time_recharges__weekday__allday__std,
+393,interevent_time_recharges__weekday__allday__median,
+394,interevent_time_recharges__weekday__allday__skewness,
+395,interevent_time_recharges__weekday__allday__kurtosis,
+396,interevent_time_recharges__weekday__allday__min,
+397,interevent_time_recharges__weekday__allday__max,
+398,interevent_time_recharges__weekday__day__median,
+399,interevent_time_recharges__weekday__day__skewness,
+400,interevent_time_recharges__weekday__day__min,
+401,interevent_time_recharges__weekday__day__max,
+402,interevent_time_recharges__weekday__night__median,
+403,interevent_time_recharges__weekday__night__skewness,
+404,interevent_time_recharges__weekday__night__kurtosis,
+405,interevent_time_recharges__weekday__night__max,
+406,interevent_time_recharges__weekend__allday__median,
+407,interevent_time_recharges__weekend__allday__skewness,
+408,interevent_time_recharges__weekend__allday__kurtosis,
+409,interevent_time_recharges__weekend__allday__min,
+410,interevent_time_recharges__weekend__day__std,
+411,interevent_time_recharges__weekend__day__min,
+412,interevent_time_recharges__weekend__day__max,
+413,percent_pareto_recharges__allweek__day,
+414,percent_pareto_recharges__weekday__allday,
+415,percent_pareto_recharges__weekday__day,
+416,percent_pareto_recharges__weekday__night,
+417,percent_pareto_recharges__weekend__night,
+418,number_of_recharges__allweek__night,
+419,number_of_recharges__weekday__allday,
+420,number_of_recharges__weekday__day,
+421,number_of_recharges__weekday__night,
+422,number_of_recharges__weekend__day,

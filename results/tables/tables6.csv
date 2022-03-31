@@ -1,0 +1,5 @@
+Model,r2 or AUC,Top Five Features
+Linear Regression,0.49,Below Poverty Line
+LASSO Regression,0.5,Below Poverty Line
+Random Forest,0.54,"BOC WE Night Call Kurtosis, CD Night Call Mean, Entropy Antennas WD Day, RD Text WE  Kurtosis, IT Recharges WD Day Median"
+Gradient Boosting,0.52,"CD WE Night Call Median, CD Night Call Mean, CD  Call Min, RR Text WD, BOC WD Night Call Std"

@@ -1,0 +1,51 @@
+feature,importance
+CD WE Night Call Median,9
+CD Night Call Mean,8
+CD  Call Min,8
+RR Text WD,7
+BOC WD Night Call Std,7
+IT WE Day Text Std,6
+IPC Night Call Skew,6
+Amount Recharges WE Day Skew,5
+BOC WE Day Call Min,5
+IT Recharges WD Day Median,4
+IT WD Day Text Mean,4
+BOC Night Call Min,4
+BOC WE Night Text Skew,4
+NOI Out  Text,4
+% Pareto Recharges WD Night,4
+IPC WD Text Max,4
+RD Text Day Median,3
+NOI Out Day Call,3
+RR Text Day,3
+Amount Recharges Night Median,3
+Active Days WE,3
+BOC WE Night Text Median,3
+Nois WD Call,3
+PPD WD Call,3
+% Nocturnal WD Day Text,3
+RD Text WE Night Std,3
+PPI WE Night Call,3
+RD Text Day Kurtosis,2
+IT WE Text Skew,2
+IT WE Call Skew,2
+IPC Day Call Median,2
+RD Text WE  Kurtosis,2
+% Nocturnal WE Day Text,2
+IT WD Night Call Max,2
+IT Recharges Day Std,2
+IT Recharges Day Skew,2
+IPC WD Text Std,2
+PPD WE Night Call,2
+NOI In WE Day Call,2
+CD Day Call Max,2
+BOC Night Text Skew,2
+IPC WE Day Call Kurtosis,2
+IT Night Text Mean,2
+BOC WD Night Call Max,2
+% At Home WE Night,2
+BOC WD Night Text Mean,1
+BOC WE Text Std,1
+NOI In WD Day Call,1
+Amount Recharges WD Day Kurtosis,1
+NOI In WD Text,1

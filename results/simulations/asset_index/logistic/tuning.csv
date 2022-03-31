@@ -1,0 +1,2 @@
+mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_dropmissing__threshold,param_dropmissing__variance_threshold,param_winsorizer__limits,params,split0_test_score,split1_test_score,split2_test_score,mean_test_score,std_test_score,rank_test_score
+1.2763078212738037,0.05470889910697736,0.17402378718058267,0.015306718984167335,0.5,0,"(0.0, 1.0)","{'dropmissing__threshold': 0.5, 'dropmissing__variance_threshold': 0, 'winsorizer__limits': (0.0, 1.0)}",-0.2401746944118377,-0.16653818215326988,-0.18382753836728738,-0.19684680497746498,0.03143999535307129,1
