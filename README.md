@@ -1,4 +1,4 @@
-# afghanistan-targeting-replication
+# Afghanistan Aid Targeting Replication Repo
 
 This repo contains the replication code for the paper "Program targeting with machine learning and mobile phone data: Evidence from an anti-poverty intervention in Afghanistan" by Emily Aiken, Guadalupe Bedoya, Joshua Blumenstock, and Aidan Coville (2022). The repo is structured as follows:
 
