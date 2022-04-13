@@ -9,6 +9,7 @@ This repo contains the replication code for the paper "Program targeting with ma
 
 ### Scripts
 - `data/generate_synthetic_data.ipynb`: Generates the synthetic survey and phone features datasets; adjust parameters for more or fewer observations, or to inject correlations between variables
+- `0requirements.ipynb`: Installs the required packages for the subsequent replication scripts 1-4
 - `1survey.ipynb`: Analysis of raw survey data and generation of additional survey-based outcomes (asset index, below poverty line)
 - `2machinelearning.ipynb`: Implementation and evaluation of machine learning models to predict survey outcomes from mobile phone features
 - `3targeting.iynb`: Targeting simulations to compare accuracy of targeting methods
