@@ -20,12 +20,11 @@ This repo contains the replication code for the paper "Program targeting with ma
 - `results/simulations`: Results from machine learning models (predictions, feature importances, the models themselves) are saved here
 
 ### Dependencies
-- numpy 
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-- scikit-misc
-- lightgbm
-- multiprocessing
-- joblib
+- numpy = 1.18.5
+- pandas = 1.0.5
+- matplotlib = 3.3.2
+- seaborn = 0.10.1
+- scikit-learn = 0.23.1
+- scikit-misc = 0.1.3
+- lightgbm = 2.3.0
+- joblib = 0.15.1
