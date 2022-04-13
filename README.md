@@ -21,6 +21,7 @@ This repo contains the replication code for the paper "Program targeting with ma
 - `results/simulations`: Results from machine learning models (predictions, feature importances, the models themselves) are saved here
 
 ### Dependencies
+- python = 3.7.7
 - numpy = 1.18.5
 - pandas = 1.0.5
 - matplotlib = 3.3.2
